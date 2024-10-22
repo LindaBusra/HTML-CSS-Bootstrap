@@ -1,0 +1,47 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+    margin: 20px;
+}
+
+
+header{
+    margin: auto;
+}
+
+section, footer {
+    margin: auto;
+}
+
+h2{
+    color: brown;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+
+
+table{
+    text-align: left;
+    width: 30%;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+th, td, tr{
+    border: 1px solid black;
+    text-align: left;
+}
+
+#kontaktinfo {
+    font-weight: bold;
+    color: rgb(139, 0, 12);
+    line-height: 1.2;    
+}
+
+.kunder, .oppfinnelser {
+    list-style-type: square;
+    padding-left: 20px;
+}
